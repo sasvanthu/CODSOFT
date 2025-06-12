@@ -10,6 +10,9 @@ How it works:
 3. Trains a Naive Bayes model
 4. Predicts and evaluates on test data
 
+To Run on Web:
+Open Google Collab.
+
 To Run Locally
 ```bash
 pip install -r requirements.txt
